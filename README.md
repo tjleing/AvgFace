@@ -1,4 +1,4 @@
-# Average Undergraduate Face at Caltech
+# Average Face at Caltech (Class of 2020)
 
 ![The magical face](Average.png?raw=true "The magical face")
 
